@@ -10,7 +10,7 @@
 
 - [x] ch5 神经网络 finish on 6/30
 
-- [ ] ch6 支持向量机
+- [x] ch6 支持向量机 finish on 7/7
 
 - [ ] ch7 贝叶斯分类器
 
