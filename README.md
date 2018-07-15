@@ -14,9 +14,9 @@
 
 - [x] ch7 贝叶斯分类器 finish on 7/10
 
-- [ ] ch8 集成学习
+- [x] ch8 集成学习 finish on 7/13
 
-- [ ] ch9 聚类
+- [x] ch9 聚类 finish on 7/15
 
 - [ ] ch10 降为和度量学习
 
