@@ -20,9 +20,9 @@
 
 - [x] ch10 降为和度量学习 exercise skipped
 
-- [ ] ch11 特征选择与稀疏学习
+- [x] ch11 特征选择与稀疏学习 finish on 7/17
 
-- [ ] ch12 计算学习理论
+- [ ] ch12 计算学习理论 will skip and come back  to this chapter on one weekend...
 
 - [ ] ch13 半监督学习
 
