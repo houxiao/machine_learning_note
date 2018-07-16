@@ -18,7 +18,7 @@
 
 - [x] ch9 聚类 finish on 7/15
 
-- [ ] ch10 降为和度量学习
+- [x] ch10 降为和度量学习 exercise skipped
 
 - [ ] ch11 特征选择与稀疏学习
 
